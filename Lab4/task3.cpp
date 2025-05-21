@@ -61,7 +61,7 @@ int main() {
         a[i] = rand() % 1000;
     }
 
-    printf("InitialS array:\n");
+    printf("Initial array:\n");
     printArray(a, n);
 
     ExecutionTime time = ExecutionTime();

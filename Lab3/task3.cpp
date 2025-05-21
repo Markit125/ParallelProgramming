@@ -24,7 +24,6 @@ int main() {
             total_sum += i;
         }
 
-
         printf("[%d] calculation of the iteration number: Sum = %d\n", tid, partial_sum);
     }
 
